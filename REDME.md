@@ -5,3 +5,6 @@
   Para ejecutar el sistema debes poner
 
 ````opn install reac`````
+
+  Sistema de Registro 2
+  
